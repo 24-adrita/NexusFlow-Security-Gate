@@ -1,0 +1,6 @@
+{
+  "name": "NexusFlow",
+  "description": "Enterprise-Grade Management & Analytics Platform with role-based access, interactive data dashboards, dynamic ingestion, and audit logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
